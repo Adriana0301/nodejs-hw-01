@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "390f88bf-7a72-4f21-9bbb-27cd26c069ff",
+    "name": "Jake Auer",
+    "phone": "759-835-8923 x90372",
+    "email": "Greg94@gmail.com",
+    "job": "Corporate Research Agent"
+  },
+  {
+    "id": "e3f458d1-cd78-4cbb-b1a7-48e524ed8c21",
+    "name": "Miss Lois Swaniawski",
+    "phone": "(478) 783-0672 x02637",
+    "email": "Coty.Feest80@hotmail.com",
+    "job": "Investor Security Technician"
+  },
+  {
+    "id": "0d498da5-de2a-407d-bfe7-49e3aaffea64",
+    "name": "Jordan Weimann",
+    "phone": "703.259.6375",
+    "email": "Laurel17@hotmail.com",
+    "job": "International Accounts Planner"
+  },
+  {
+    "id": "353d6adb-7213-43ae-8095-04169ad82892",
+    "name": "Miss Kim Thiel",
+    "phone": "837-391-2055 x62536",
+    "email": "Shayne.McClure-Aufderhar13@gmail.com",
+    "job": "Legacy Usability Consultant"
+  },
+  {
+    "id": "c4fdf750-495e-4429-ae28-6afe6048fae5",
+    "name": "Kirk Jones",
+    "phone": "672.961.1605 x942",
+    "email": "Zoie_Collier@gmail.com",
+    "job": "Future Factors Orchestrator"
+  }
+]
